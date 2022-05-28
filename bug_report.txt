@@ -1,0 +1,6 @@
+summary - if click login button, nothing happens
+severity - blocker
+priority - hight
+SR - open main page > click login button
+Result - nothing happens
+ExpResult - open login page
